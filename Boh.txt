@@ -8,3 +8,5 @@ Because I'm easy come, easy go, little high, little low
 Any way the wind blows doesn't really matter to me, to me
 
 Other random thoughts
+
+I want to push this without using github
