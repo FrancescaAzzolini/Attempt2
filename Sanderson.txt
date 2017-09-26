@@ -1,0 +1,16 @@
+Pages	Book series	Number	Bestseller
+541	M1	1	no
+590	M1	2	no
+572	M1	3	no
+383	M2	1	no
+448	M2	2	no
+1007	SA	1	no
+1087	SA	2	yes
+1252	SA	3	yes
+386	R	1	yes
+419	R	2	yes
+421	R	3	no
+590	E	1	no
+766	WoT	12	yes
+864	WoT	13	yes
+912	WoT	14	yes
