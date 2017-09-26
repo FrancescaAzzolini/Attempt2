@@ -17,3 +17,6 @@ Series=table(Book.series)
 barplot(Series)
 SeriesP=table(Book.series)/15
 barplot(SeriesP)
+boxplot(Pages~Book.series)
+LTTP=Pages[1:5]
+boxplot(Pages[1:5] ~Book.series[1:5])
